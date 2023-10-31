@@ -17,14 +17,16 @@ To run and view the project in **development mode**, you will need to follow the
 
 ### Prerequisites:
 Below are listed the tools needed to run the project.
-- **React** 🐳<br>
+- **React**<br>
   [Installation Guide React](https://react.dev/).
-- **NPM** 🐳<br>
+- **NPM**<br>
   [Installation Guide NPM](https://www.npmjs.com/).
-- **Node** 🐳<br>
+- **Node**<br>
   [Installation Guide Node](https://nodejs.org/en).
-- **Styled Components** 🐳<br>
+- **Styled Components**<br>
   [Installation Guide Styled Components](https://styled-components.com/).
+- **React-Icons**<br>
+  [Installation Guide React-Icons](https://react-icons.github.io/react-icons/).
   
 ### Running the project:
 The scripts below perform project installation:
